@@ -8,4 +8,4 @@ week01/
 ```
 
 ### 커밋 규칙
-`[${이름}] week0X chapter00,01 업로드
+`[${이름}] week0X chapter00,01 업로드`
